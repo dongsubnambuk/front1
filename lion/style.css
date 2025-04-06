@@ -1,0 +1,20 @@
+.head-title{
+ border: 2px solid red;
+ text-align: center;
+}
+
+.habbit1{
+    border: 2px solid red;
+    text-align: right;
+    font-weight: bold;
+}
+
+.author{
+    border: 2px solid red;
+    font-size: 25px;
+}
+
+.movie{
+    border: 2px solid red;
+    color: blue;
+}
