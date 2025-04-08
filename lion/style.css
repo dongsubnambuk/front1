@@ -1,12 +1,17 @@
 .head-title{
- border: 2px solid red;
- text-align: center;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
+
 
 .habbit1{
     border: 2px solid red;
     text-align: right;
     font-weight: bold;
+    padding: 30px;
 }
 
 .author{
